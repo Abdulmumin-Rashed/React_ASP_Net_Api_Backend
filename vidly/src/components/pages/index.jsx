@@ -1,0 +1,12 @@
+export { default as Customers } from "./customer/customers";
+export { default as CustomerForm } from "./customer_form/customerForm";
+export { default as LoginForm } from "./login/loginForm";
+export { default as Logout } from "./logout/logout";
+export { default as Movies } from "./movie/movies";
+export { default as MovieForm } from "./movie_form/movieForm";
+export { default as NavBar } from "./navbar/navBar";
+export { default as NotFound } from "./notFound/notFound";
+export { default as Profile } from "./profile/profile";
+export { default as RegisterForm } from "./register/registerForm";
+export { default as Rentals } from "./rentals/rentals";
+export { default as RentalsForm } from "./rentals_form/rentalsForm";
